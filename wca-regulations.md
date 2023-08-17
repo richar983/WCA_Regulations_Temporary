@@ -470,7 +470,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - B3a) 記憶方塊的過程中，參賽者可以拿起方塊。
     - B3b) 參賽者不可以做任何筆記。處罰：判定該次還原未完成（DNF）。
     - B3c) 記憶方塊的過程中，參賽者不可以轉動方塊或是故意改變方塊對齊狀態(參見 [附則 A3c2](regulations:regulation:A3c2))。處罰：判定該次還原未完成（DNF）。
-    - B3d) 如果方塊並沒有對齊，參賽者可以使其對齊，但僅限於[規則 10f](regulations:regulation:10f)所提的界限內。(參見[規則 A3c2](regulations:regulation:A3c2))
+    - B3d) 如果方塊並沒有對齊，參賽者可以將它對齊，但僅限於[規則 10f](regulations:regulation:10f)所提的界限內。(參見[規則 A3c2](regulations:regulation:A3c2))
 - B4) 盲解階段：
     - B4a) 參賽者將眼罩戴上，以開始盲解階段。
     - B4b) 在眼罩還未完整罩上前，參賽者不能轉動方塊或是故意改變方塊對齊狀態。處罰：判定該次還原未完成（DNF）。
